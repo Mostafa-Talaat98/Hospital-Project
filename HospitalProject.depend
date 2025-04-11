@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1738184021 source:c:\users\pc\desktop\project 1\hospitalproject\main.cpp
+	<Empolyee.h>
+	<Department.h>
+	<Medicine.h>
+	<Nurse.h>
+	<Doctor.h>
+	<Patiant.h>
+	<iostream>
+
+1737969329 c:\users\pc\desktop\project 1\hospitalproject\include\empolyee.h
+	<iostream>
+	<person.h>
+
+1737924620 c:\users\pc\desktop\project 1\hospitalproject\include\person.h
+	<string>
+	<iostream>
+
+1738171541 c:\users\pc\desktop\project 1\hospitalproject\include\doctor.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+	<iostream>
+
+1738183852 c:\users\pc\desktop\project 1\hospitalproject\include\database.h
+	<iostream>
+	<string>
+	<vector>
+
+1738081654 c:\users\pc\desktop\project 1\hospitalproject\include\color.hpp
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
+1738182713 c:\users\pc\desktop\project 1\hospitalproject\include\patiant.h
+	<iostream>
+	<person.h>
+	<Database.h>
+
+1738182639 c:\users\pc\desktop\project 1\hospitalproject\include\department.h
+	<iostream>
+	<Database.h>
+
+1738174280 c:\users\pc\desktop\project 1\hospitalproject\include\medicine.h
+	<Database.h>
+
+1738174281 c:\users\pc\desktop\project 1\hospitalproject\include\nurse.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+
+1738218833 source:c:\users\lap me store\onedrive\desktop\hospitalproject\main.cpp
+	<Empolyee.h>
+	<Department.h>
+	<Medicine.h>
+	<Nurse.h>
+	<Doctor.h>
+	<Patiant.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1737969329 c:\users\lap me store\onedrive\desktop\hospitalproject\include\empolyee.h
+	<iostream>
+	<person.h>
+
+1737924620 c:\users\lap me store\onedrive\desktop\hospitalproject\include\person.h
+	<string>
+	<iostream>
+
+1738182639 c:\users\lap me store\onedrive\desktop\hospitalproject\include\department.h
+	<iostream>
+	<Database.h>
+
+1738183852 c:\users\lap me store\onedrive\desktop\hospitalproject\include\database.h
+	<iostream>
+	<string>
+	<vector>
+
+1738174280 c:\users\lap me store\onedrive\desktop\hospitalproject\include\medicine.h
+	<Database.h>
+
+1738174281 c:\users\lap me store\onedrive\desktop\hospitalproject\include\nurse.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+
+1738171541 c:\users\lap me store\onedrive\desktop\hospitalproject\include\doctor.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+	<iostream>
+
+1738182713 c:\users\lap me store\onedrive\desktop\hospitalproject\include\patiant.h
+	<iostream>
+	<person.h>
+	<Database.h>
+
+1738222988 source:c:\users\pc\desktop\project\hospitalproject\main.cpp
+	<Empolyee.h>
+	<Department.h>
+	<Medicine.h>
+	<Nurse.h>
+	<Doctor.h>
+	<Patiant.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"../include/color.hpp"
+
+1737969330 c:\users\pc\desktop\project\hospitalproject\include\empolyee.h
+	<iostream>
+	<person.h>
+
+1737924622 c:\users\pc\desktop\project\hospitalproject\include\person.h
+	<string>
+	<iostream>
+
+1738182640 c:\users\pc\desktop\project\hospitalproject\include\department.h
+	<iostream>
+	<Database.h>
+
+1738230576 c:\users\pc\desktop\project\hospitalproject\include\database.h
+	<iostream>
+	<string>
+	<vector>
+
+1738174282 c:\users\pc\desktop\project\hospitalproject\include\medicine.h
+	<Database.h>
+
+1738174282 c:\users\pc\desktop\project\hospitalproject\include\nurse.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+
+1738171542 c:\users\pc\desktop\project\hospitalproject\include\doctor.h
+	<iostream>
+	<Empolyee.h>
+	<Database.h>
+	<iostream>
+
+1738182714 c:\users\pc\desktop\project\hospitalproject\include\patiant.h
+	<iostream>
+	<person.h>
+	<Database.h>
+
+1738081656 c:\users\pc\desktop\project\hospitalproject\include\color.hpp
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
